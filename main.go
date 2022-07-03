@@ -28,7 +28,7 @@ func helloworld(w http.ResponseWriter, r *http.Request) {
 	page := `
 		<html>
 			<head>
-				<title>Simple Go Helloworld</title>
+				<title>Simple Go Helloworld from GitHub</title>
 			</head>
 
 			<style>
